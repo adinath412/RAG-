@@ -131,6 +131,6 @@ For issues, questions, or suggestions, please [open a GitHub issue](https://gith
 
 ## 🌐 Connect
 
-- Author: Shubham Lodha
-- LinkedIn: (https://www.linkedin.com/in/shubham-lodha-b2389319b/)
-- Email: shubhamlodha2111@gmail.com
+- Author: Adinath More 
+- LinkedIn: (https://www.linkedin.com/in/adi-more-1a5b34210/)
+- Email: moreadinath412@gmail.com
